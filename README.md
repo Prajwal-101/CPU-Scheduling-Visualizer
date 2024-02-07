@@ -35,7 +35,7 @@ The Algorithms which are used in this are:
 
 **WHAT I DID IN THIS PROJECT?**
 
-In the project code I provided, it appears that I have developed a C++ program for simulating and visualizing various CPU scheduling algorithms. Here's what I did in this project:
+I have developed a C++ program for simulating and visualizing various CPU scheduling algorithms. Here's what I did in this project:
 
 1. **User Interface Design**:
    - I designed a text-based user interface (UI) for the program. The UI displays menus, process information, and scheduling results in the console.
