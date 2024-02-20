@@ -3,13 +3,6 @@ This is a CPU scheduling algorithms visualizer which gives the comparison betwee
 
 ---------------------------------------------------------------------------------------------------------
 
-**WHY I CHOOSE TO DO IT?**
-
-When I started gaming a little bit, I was really curious about how these big games run in such tiny chips called CPU and how does the switching of processes happen while I play. eg-> I get a call while I play so how dose the OS know that it has to stop the current gaming process and run the incoming call process, how does two or more processes run so efficiently in the same CPU.
-That’s when I came across the topic CPU SCHEDULING and by reading its methods, I was really curious to see it for myself that how this switching of process happens so I decided to build a project about this where I can implement and visualize these algorithms.
-
----------------------------------------------------------------------------------------------------------
-
 **WHAT IS IN THIS PROJECT?**
 
 It is a an CPU visualization tool which helps us to understand the concepts of Process Management where we can see how the diffrent algorithms works inside the CPU and we visiualize it using Gantt Chart which is a time series chart starting from 0 seconds.
